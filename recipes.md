@@ -56,7 +56,7 @@ Ingredients:
 - 1/4 cup milk
 - 1/4 cup grated Parmesan cheese
 - 1 egg
-- 2 cloves garlic, minced
+- 5 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
 
@@ -80,6 +80,7 @@ Ingredients:
 - Lettuce
 - Tomato
 - Mayonnaise
+- Spinach
 
 Instructions:
 1. Preheat grill to medium-high heat.
